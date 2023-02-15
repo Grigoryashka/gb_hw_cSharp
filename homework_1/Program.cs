@@ -23,6 +23,7 @@ int a6 = Convert.ToInt32(Console.ReadLine());
 if (a6 % 2 == 0) Console.WriteLine($"Yes");
 else Console.WriteLine("No");*/
 
+
 // TASK 8
 Console.Write("Введите конечное число: ");
 int n = Convert.ToInt32(Console.ReadLine());
