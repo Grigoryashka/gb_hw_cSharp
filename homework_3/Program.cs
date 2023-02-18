@@ -33,7 +33,7 @@ for (int i = 1; i <= number; i++) {
 Console.Write("Введите количество кустов: ");
 int count = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите количество ягод на каждом кусте через пробел: ");
-int[] berries = Console.ReadLine().Split(' ').Select(x => int.Parse(x)).ToArray();
+int[] berries = Console.ReadLine()!.Split(' ').Select(x => int.Parse(x)).ToArray();
 int sum = berries[0]+berries[1]+berries[2];
 for (int i = 1; i <= count - 3; i++) {
 if (berries[i]+berries[i+1]+berries[i+2] > sum) sum = berries[i]+berries[i+1]+berries[i+2];
