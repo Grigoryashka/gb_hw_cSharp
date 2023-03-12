@@ -1,0 +1,15 @@
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\bin\Debug\net7.0\homework_8.exe
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\bin\Debug\net7.0\homework_8.deps.json
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\bin\Debug\net7.0\homework_8.runtimeconfig.json
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\bin\Debug\net7.0\homework_8.dll
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\bin\Debug\net7.0\homework_8.pdb
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\homework_8.csproj.AssemblyReference.cache
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\homework_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\homework_8.AssemblyInfoInputs.cache
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\homework_8.AssemblyInfo.cs
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\homework_8.csproj.CoreCompileInputs.cache
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\homework_8.dll
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\refint\homework_8.dll
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\homework_8.pdb
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\homework_8.genruntimeconfig.cache
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\homework_8\obj\Debug\net7.0\ref\homework_8.dll
