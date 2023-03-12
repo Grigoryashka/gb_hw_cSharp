@@ -1,0 +1,15 @@
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\total_project.csproj.AssemblyReference.cache
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\total_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\total_project.AssemblyInfoInputs.cache
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\total_project.AssemblyInfo.cs
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\total_project.csproj.CoreCompileInputs.cache
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\bin\Debug\net7.0\total_project.exe
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\bin\Debug\net7.0\total_project.deps.json
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\bin\Debug\net7.0\total_project.runtimeconfig.json
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\bin\Debug\net7.0\total_project.dll
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\bin\Debug\net7.0\total_project.pdb
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\total_project.dll
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\refint\total_project.dll
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\total_project.pdb
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\total_project.genruntimeconfig.cache
+C:\Users\victo\3D Objects\Git\repositories\gb_hw_cSharp\total_project\obj\Debug\net7.0\ref\total_project.dll
